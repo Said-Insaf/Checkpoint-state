@@ -1,0 +1,30 @@
+.navbar {
+  width: 90%;
+  height: 50px;
+  background-color: black;
+  color: white;
+  margin-left: 60px;
+  text-align: center;
+}
+
+.profile {
+  margin-top: 20px;
+  margin-left: 300px;
+  margin-right: 300px;
+  text-align: center;
+  border: solid;
+  padding: 15%;
+}
+
+.card {
+  width: 300px;
+  background-color: burlywood;
+}
+
+a {
+  text-decoration: none;
+}
+
+.butt {
+  margin-top: 100px;
+}
